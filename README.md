@@ -1,8 +1,12 @@
 # Seminario de IOT en Huelva
 
-![cartel promocional del evento](assets/banner.jpg)
+![foto de la sesión formativa](assets/event.jpg)
+
 
 ## Sobre la charla
+
+![cartel promocional del evento](assets/banner.jpg)
+
 > ¿Qué aprenderá? En este seminario, de 10:00 a 14:00, veremos, partiendo de una base sencilla en la que no es necesario tener conocimiento previo; qué es el IoT, el alcance, así como su potencialidad y proyección. Una charla "in crescendo" de la mano de Ulises Gascón, que culminará en horario de tarde, de 16:00 a 18:00, con el Taller IoT, en el que se proporcionará un Kit de Arduino para cada grupo y se realizarán prácticas introductorias cuyo objetivo será el acercamiento al IoT de primera mano.
 
 ## Videos
