@@ -17,9 +17,9 @@
 
 ## Presentaciones
 
-- Parte 1
-- Parte 2
-- Workshop
+- [Parte 1](https://ulisesgascon.github.io/slides-seminario-iot-huelva-inteligente)
+- [Parte 2](https://ulisesgascon.github.io/slides-seminario-iot-huelva-inteligente-parte-2/)
+- [Workshop](https://ulisesgascon.github.io/seminario-IOT-Huelva-Inteligente-workshop/)
 
 ## Prensa
 
