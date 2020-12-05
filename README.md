@@ -3,25 +3,25 @@
 ![foto de la sesión formativa](assets/event.jpg)
 
 
-## Sobre la charla
+## 🤔 Sobre la charla
 
 ![cartel promocional del evento](assets/banner.jpg)
 
 > ¿Qué aprenderá? En este seminario, de 10:00 a 14:00, veremos, partiendo de una base sencilla en la que no es necesario tener conocimiento previo; qué es el IoT, el alcance, así como su potencialidad y proyección. Una charla "in crescendo" de la mano de Ulises Gascón, que culminará en horario de tarde, de 16:00 a 18:00, con el Taller IoT, en el que se proporcionará un Kit de Arduino para cada grupo y se realizarán prácticas introductorias cuyo objetivo será el acercamiento al IoT de primera mano.
 
-## Videos
+## 📹 Videos
 
 - [Diputación Provincial de Huelva | Seminario El internet de las Cosas](https://www.youtube.com/watch?v=n0AzLrU0Qhg)
 - [S27 - Internet de las Cosas - Parte I - EID](https://www.youtube.com/watch?v=p935-uqRuN0&t)
 - [S27 - S28 - Internet de las Cosas - Parte II - EID](https://www.youtube.com/watch?v=tjvuc0Xfzlc)
 
-## Presentaciones
+## 📚 Presentaciones
 
 - [Parte 1](https://ulisesgascon.github.io/slides-seminario-iot-huelva-inteligente)
 - [Parte 2](https://ulisesgascon.github.io/slides-seminario-iot-huelva-inteligente-parte-2/)
 - [Workshop](https://ulisesgascon.github.io/seminario-IOT-Huelva-Inteligente-workshop/)
 
-## Prensa
+## 🗞 Prensa
 
 - [Diputación de huelva | La Diputación organiza para el próximo jueves un seminario-taller sobre el Internet de las cosas](http://control.diphuelva.es/pdflink/es/d1086e0d-0a72-11e8-abc7-63f9a58dae09/La-Diputacion-organiza-para-el-proximo-jueves-un-seminario-taller-sobre-el-Internet-de-las-cosas.pdf?themeconfigpath=/sites/dph/.themeconfig)
 - [Diputación de huelva | Sala de prensa | La Diputación organiza para el próximo jueves un seminario-taller sobre el Internet de las cosas](http://www.diphuelva.es/prensa/La-Diputacion-organiza-para-el-proximo-jueves-un-seminario-taller-sobre-el-Internet-de-las-cosas/)
@@ -31,7 +31,7 @@
 - [Huelva Inteligente | Seminario Internet de las Cosas (IoT) (Web Archive)](https://web.archive.org/web/20160503160244/http://blog.huelvainteligente.es/noticias/internet-de-las-cosas-iot/)
 - [Huelva Inteligente | Entrevista a Ulises Gascon (Web Archive)](https://web.archive.org/web/20160704143330/http://blog.huelvainteligente.es/noticias/entrevistamos-a-ulises-gascon-y-hablamos-sobre-internet-de-las-cosas/)
 
-## Recursos
+## 🗂 Recursos
 
 - [Arduino The Documentary (2010) Spanish HD](https://vimeo.com/18390711)
 - [Comparativa entre las muchas variantes de Arduino](https://www.arduino-board.com/)
