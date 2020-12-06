@@ -3,7 +3,7 @@
 ![foto de la sesión formativa](assets/event.jpg)
 
 
-## 🤔 Sobre la charla
+## 🤔 Sobre el seminario
 
 ![cartel promocional del evento](assets/banner.jpg)
 
