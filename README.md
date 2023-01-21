@@ -1,3 +1,6 @@
+<h2 align="center">:warning: This repository is not longer maintained :warning:</h2>
+
+
 # Seminario de IOT en Huelva
 
 ![foto de la sesión formativa](assets/event.jpg)
